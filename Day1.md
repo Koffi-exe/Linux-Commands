@@ -70,7 +70,13 @@ cat <filename>
 ```bash
 less <filename>
 ```
-- Use `q` to quit the viewer.
+-Scroll a page at a time with Space
+
+-Scroll up with b
+
+-Search with /text
+
+-Exit with q
 
 ### Remove a File
 ```bash
