@@ -3,7 +3,7 @@
 
 ## 1. COPY ## 
 ```bash
-cp <fileToBeCopied> <fileWhereItHadToBeCopied>
+cp <source> <destinations>
 ```
 
 ## 2. Moving or Renaming a file or directory ##
